@@ -1,0 +1,975 @@
+[
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "description": "The cyclical Super Sector includes industries significantly affected by economic shifts. When the economy is prosperous, these industries tend to expand, and when the economy is in a downturn they tend to shrink. In general, the stocks in these industries have betas of greater than 1."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "description": "The defensive Super Sector includes industries that are relatively immune to economic cycles. These industries provide services that consumers require in both good and bad times, such as healthcare and utilities. In general, the stocks in these industries have betas of less than 1."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "description": "The sensitive Super Sector includes industries that ebb and flow with the overall economy, but not severely. Sensitive industries fall between defensive and cyclical, as they are not immune to a poor economy, but they also may not be as severely affected as industries in the cyclical Super Sector. In general, the stocks in these industries have betas that are close to 1."
+  },
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "description": "Companies that manufacture chemicals, building materials, and paper products. This sector also includes companies engaged in commodities exploration and processing. Companies in this sector include ArcelorMittal, BHP Billiton, and Rio Tinto."
+  },
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "description": "This sector includes retail stores, auto and auto-parts manufacturers, restaurants, lodging facilities, restaurants, and entertainment companies. Companies in this sector include Ford Motor Co., McDonald’s, and News Corp."
+  },
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "description": "Companies that provide financial services include banks, savings and loans, asset management companies, credit services, investment brokerage firms, and insurance companies. Companies in this sector include Allianz, JPMorgan Chase, and Legg Mason."
+  },
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "description": "This sector includes companies that develop, acquire, manage, and operate real estate properties. Companies in this sector include Kimco Realty, Vornado Realty Trust, and Westfield Group."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "description": "Companies that manufacture food, beverages, household and personal products, packaging, or tobacco. Also includes companies that provide services such as education and training services. Companies in this sector include Philip Morris International, Procter & Gamble, and Walmart."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "description": "This sector includes biotechnology, pharmaceuticals, research services, home healthcare, hospitals, long-term-care facilities, and medical equipment and supplies. Also include pharmaceutical retailers and companies which provide health information services. Companies in this sector include AstraZeneca, Pfizer, and Roche Holding, Walgreens Boots Alliance, and Cerner Corp."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "description": "Electric, gas, and water utilities. Companies in this sector include Electricité de France, Exelon and NextEra Energy Inc."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "description": "Companies that provide communication services using fixed-line networks or those that provide wireless access and services. Also includes companies that provide advertising & marketing services, entertainment content and services, as well as interactive media and content provider over internet or through software. Companies in this sector include AT&T, Verizon Communications, Walt Disney, Netflix, Omnicom Group, Alphabet and Facebook"
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "description": "Companies that produce or refine oil and gas, oilfield-services and equipment companies, and pipeline operators. This sector also includes companies that mine thermal coal and uranium. Companies in this sector include BP, ExxonMobil, Royal Dutch Shell, and China Shenhua Energy."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "description": "Companies that manufacture machinery, hand-held tools, and industrial products. This sector also includes aerospace and defense firms as well as companies engaged in transportation services. Companies in this sector include 3M, Boeing, and Siemens."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "description": "Companies engaged in the design, development, and support of computer operating systems and applications. This sector also includes companies that make computer equipment, data storage products, networking products, semiconductors, and components. Companies in this sector include Apple, Microsoft, and IBM."
+  },
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Agriculture",
+    "industryGroupId": 10110
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Agriculture",
+    "industryGroupId": 10110,
+    "industry": "Agricultural Inputs",
+    "industryId": 10110010,
+    "description": "Companies that manufacture nitrogenous and phosphatic fertilizers, pesticides, seed, and other agricultural chemical products"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Building Materials",
+    "industryGroupId": 10120
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Building Materials",
+    "industryGroupId": 10120,
+    "industry": "Building Materials",
+    "industryId": 10120010,
+    "description": "Companies that manufacture construction materials, including stone, clay, and brick products, cement, lime, gypsum, and concrete and other construction products. Excludes companies that manufacture finished and semifinished building products."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Chemicals",
+    "industryGroupId": 10130
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Chemicals",
+    "industryGroupId": 10130,
+    "industry": "Chemicals",
+    "industryId": 10130010,
+    "description": "Chemical manufacturing companies engaged in diverse chemical and chemical-related operations, and basic chemicals manufacturing."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Chemicals",
+    "industryGroupId": 10130,
+    "industry": "Specialty Chemicals",
+    "industryId": 10130020,
+    "description": "Companies that use base chemicals to produce value-added chemicals that are used in a variety of products. Includes companies that produce polishes, adhesives and sealants, explosives, printing ink, paint, carbon black, acids, repellants, and cleaning solutions."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Forest Products",
+    "industryGroupId": 10140
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Forest Products",
+    "industryGroupId": 10140,
+    "industry": "Lumber & Wood Production",
+    "industryId": 10140010,
+    "description": "Companies that grow timber, mill lumber, and manufacture wood and wood products for construction."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Forest Products",
+    "industryGroupId": 10140,
+    "industry": "Paper & Paper Products",
+    "industryId": 10140020,
+    "description": "Companies that manufacture and market paper and paper-related products from wood pulp and other fibers. Excludes companies that produce paper packaging products and are classified in the packaging and containers industry"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150,
+    "industry": "Aluminum",
+    "industryId": 10150010,
+    "description": "Companies that produce, refine, market, and distribute aluminum and related aluminum-based products."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150,
+    "industry": "Copper",
+    "industryId": 10150020,
+    "description": "Companies engaged in the exploration, mining, smelting, and refining of copper ores and related copper products."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150,
+    "industry": "Other Industrial Metals & Mining",
+    "industryId": 10150030,
+    "description": "Companies that mine, refine, produce, smelt, and mill industrial ores, including copper, lead, zinc, radium, vanadium, nickel, tin, titanium, and other related materials."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150,
+    "industry": "Gold",
+    "industryId": 10150040,
+    "description": "Companies principally engaged in gold exploration, mining, processing, extraction, and smelting."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150,
+    "industry": "Silver",
+    "industryId": 10150050,
+    "description": "Companies principally engaged in silver exploration, mining, processing, extraction, and smelting."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Metals & Mining",
+    "industryGroupId": 10150,
+    "industry": "Other Precious Metals & Mining",
+    "industryId": 10150060,
+    "description": "Companies that mine, refine, produce, smelt, and mill precious metals, including silver, platinum, palladium, diamond, and other related minerals."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Steel",
+    "industryGroupId": 10160
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Steel",
+    "industryGroupId": 10160,
+    "industry": "Coking Coal",
+    "industryId": 1016010,
+    "description": "Companies that produce coking coal"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Basic Materials",
+    "sectorId": 101,
+    "industryGroup": "Steel",
+    "industryGroupId": 10160,
+    "industry": "Steel",
+    "industryId": 1016020,
+    "description": "Companies that produce steel plates, steel sheets, bar and rod materials, structural steel, steel pipes and tubes, and stainless steel."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Vehicles & Parts",
+    "industryGroupId": 10200,
+    "industry": "Auto & Truck Dealerships",
+    "industryId": 10200010,
+    "description": "Companies engaged in the specialty retail of new and used automobiles, trucks, and other vehicles through the operation and/or franchising of dealerships"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Vehicles & Parts",
+    "industryGroupId": 10200,
+    "industry": "Auto Manufacturers",
+    "industryId": 10200020,
+    "description": "Leading worldwide designers and manufacturers of passenger cars and trucks."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Vehicles & Parts",
+    "industryGroupId": 10200,
+    "industry": "Auto Manufacturers",
+    "industryId": 10200020,
+    "description": "Leading worldwide designers and manufacturers of passenger cars and trucks."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Vehicles & Parts",
+    "industryGroupId": 10200,
+    "industry": "Auto Parts",
+    "industryId": 10200030,
+    "description": "Companies that manufacture motor vehicle parts and accessories, including rubber and plastic products, such as tires and inner tubes, but do not manufacture complete car bodies."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Vehicles & Parts",
+    "industryGroupId": 10200,
+    "industry": "Recreational Vehicles",
+    "industryId": 10200040,
+    "description": "Companies that manufacture recreational vehicles, including selfcontained motor homes, campers, all-terrain vehicles, travel/camper trailers, and snowmobiles."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Furnishings, Fixtures, & Appliance",
+    "industryGroupId": 10220
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Furnishings, Fixtures, & Appliance",
+    "industryGroupId": 10220,
+    "industry": "Furnishings, Fixtures, & Appliances",
+    "industryId": 10220010,
+    "description": "Companies that manufacture and market wooden, metal, and upholstered furniture, mattresses, bedsprings, lighting fixtures, wooden flooring, wallpaper, and household products, such as utensils, cutlery, tableware, and appliances."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Homebuilding & Construction",
+    "industryGroupId": 10230
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Homebuilding & Construction",
+    "industryGroupId": 10230,
+    "industry": "Residential Construction",
+    "industryId": 10230010,
+    "description": "Companies that build and renovate residential buildings, such as single-family houses, apartments, and hotels"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroupId": 10240
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroupId": 10240,
+    "industry": "Textile Manufacturing",
+    "industryId": 10240010,
+    "description": "Companies that manufacture and mill textile products, including apparel fabrics, bedding and accessories, home furnishing fabrics, carpets and rugs, curtains and drapes, and other milled textile products."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroupId": 10240,
+    "industry": "Apparel Manufacturing",
+    "industryId": 10240020,
+    "description": "Companies that manufacture, design, market, source, and sell all lines of clothing for men, women, and children. Also includes companies that manufacture or distribute buttons, buckles, and other apparel parts."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroupId": 10240,
+    "industry": "Footwear & Accessories",
+    "industryId": 10240030,
+    "description": "Companies that manufacture, design, market, and sell lines of footwear and luggage, handbags and purses, belts, and other leather goods."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Packaging & Containers",
+    "industryGroupId": 10250
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Packaging & Containers",
+    "industryGroupId": 10250,
+    "industry": "Packaging & Containers",
+    "industryId": 10250010,
+    "description": "Companies that manufacture and market paper, plastic, metal, and glass packaging products, including corrugated boxes, cardboard containers, bottles, cans, and plastic foam and containers"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Personal Services",
+    "industryGroupId": 10260
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Personal Services",
+    "industryGroupId": 10260,
+    "industry": "Personal Services",
+    "industryId": 10260010,
+    "description": "Companies that provide services of a personal nature or that are particularly structured for the individual or group being served, including veterinary services, funeral and cemetery services, child care services, portrait and photo services, tax preparation and legal services, and other miscellaneous personal services."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Restaurants",
+    "industryGroupId": 10270
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Restaurants",
+    "industryGroupId": 10270,
+    "industry": "Restaurants",
+    "industryId": 10270010,
+    "description": "Companies that own, operate, and franchise full-service restaurants that engage in the retail sale of prepared food and drink."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280,
+    "industry": "Apparel Retail",
+    "industryId": 10280010,
+    "description": "Companies engaged in the retail sale of clothing, shoes, and accessories"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280,
+    "industry": "Department Stores",
+    "industryId": 10280020,
+    "description": "Companies engaged in the retail sale of a diverse mix of merchandise, emphasizing fashion apparel and accessories, home furnishings, electronics, and cosmetics."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280,
+    "industry": "Home Improvement Retail",
+    "industryId": 10280030,
+    "description": "Companies engaged in the retail sale of home improvement items, such as lumber, carpets, hardware and other building materials, plants and other garden supplies, and various other items for the home."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280,
+    "industry": "Luxury Goods",
+    "industryId": 10280040,
+    "description": "Companies engaged in the specialty retail of luxury items, including jewelry, watches, crystal, clothing, handbags, and accessories"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280,
+    "industry": "Internet Retail",
+    "industryId": 10280050,
+    "description": "Companies engaged in the online retail sale of a diverse mix of merchandise. Excludes companies that target the travel industry and are classified in travel services."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Retail - Cyclical",
+    "industryGroupId": 10280,
+    "industry": "Specialty Retail",
+    "industryId": 10280060,
+    "description": "Companies engaged in the specialty retail of various goods and products not covered in a specific industry group. This group includes retailers such as bookstores, office-supply stores, gas stations, pawn shops, novelty shops, auto-parts stores, electronics stores, home furnishing stores, sporting goods stores, toy and hobby stores, music and video stores, and many other miscellaneous retailers."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Travel & Leisure",
+    "industryGroupId": 10290
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Travel & Leisure",
+    "industryGroupId": 10290,
+    "industry": "Gambling",
+    "industryId": 10290010,
+    "description": "Companies that own, operate, or manage lawful gaming activities and events, such as horse and dog racing, online gaming, bingo, and video lottery, as well as companies that supply products or services to gaming operators. It excludes companies operating casions."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Travel & Leisure",
+    "industryGroupId": 10290,
+    "industry": "Leisure",
+    "industryId": 10290020,
+    "description": "Companies that manufacture, design, market, and sell bicycles, sporting goods, photographic equipment, recreational equipment, toys, and other leisure products or services."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Travel & Leisure",
+    "industryGroupId": 10290,
+    "industry": "Resorts & Casinos",
+    "industryId": 10290040,
+    "description": "Companies that own, operate, and manage resort properties, including beach clubs, time-share properties, and luxury resort hotels and that conduct casino gaming operations."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Travel & Leisure",
+    "industryGroupId": 10290,
+    "industry": "Travel Services",
+    "industryId": 10290050,
+    "description": "Companies that offer travel-related products or services, including online travel services."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Asset Management",
+    "industryGroupId": 10310
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Asset Management",
+    "industryGroupId": 10310,
+    "industry": "Asset Management",
+    "industryId": 10310010,
+    "description": "Investment management firms offering diversified services such as asset administration, investment advice, portfolio or mutual fund management, money management, and venture capital."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Banks",
+    "industryGroupId": 10320
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Banks",
+    "industryGroupId": 10320,
+    "industry": "Banks - Diversified",
+    "industryId": 10320010,
+    "description": "Global, diverse financial institutions serving the corporate and consumer needs of retail banking, investment banking, trust management, credit cards and mortgage banking."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Banks",
+    "industryGroupId": 10320,
+    "industry": "Banks - Regional",
+    "industryId": 10320020,
+    "description": "Regional, diverse financial institutions serving the corporate, government, and consumer needs of retail banking, investment banking, trust management, credit cards, mortgage banking, savings and loan associations, building societies, cooperative banks, and homestead."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Banks",
+    "industryGroupId": 10320,
+    "industry": "Mortgage Finance",
+    "industryId": 10320030,
+    "description": "Companies that originate, purchase, sell, and service home mortgage and equity loans."
+  },
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Capital Markets",
+    "industryGroupId": 10330
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Capital Markets",
+    "industryGroupId": 10330,
+    "industry": "Capital Markets",
+    "industryId": 10330010,
+    "description": "Large, major investment houses offering investment banking, merchant banking, underwriting, brokerage, research, advisory, and trading services to broad-based national and international markets."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Capital Markets",
+    "industryGroupId": 10330,
+    "industry": "Financial Data & Stock Exchanges",
+    "industryId": 10330020,
+    "description": "Companies that operate security exchanges, including companies that offer financial data such as ratings, investment research, and other research solutions."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340,
+    "industry": "Insurance — Life",
+    "industryId": 10340010,
+    "description": "Companies that underwrite, market, and distribute life insurance and related products to individuals and families."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340,
+    "industry": "Insurance — Property & Casualty",
+    "industryId": 10340020,
+    "description": "Companies that underwrite, market, and distribute fire, marine, and casualty insurance for property and other tangible assets"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340,
+    "industry": "Insurance — Reinsurance",
+    "industryId": 10340030,
+    "description": "Companies that underwrite and sell reinsurance"
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340,
+    "industry": "Insurance — Specialty",
+    "industryId": 10340040,
+    "description": "Companies that underwrite, market, and distribute accident and health, sickness, mortgage, and other specialty or supplemental insurance to individuals and families."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340,
+    "industry": "Insurance — Brokers",
+    "industryId": 10340050,
+    "description": "Companies acting primarily as agents or intermediaries in creating insurance contracts between clients and insurance companies."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Insurance",
+    "industryGroupId": 10340,
+    "industry": "Insurance - Diversified",
+    "industryId": 10340060,
+    "description": "Insurance companies with diversified interests in life, health, and property and casualty insurance."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Diversified Financial Services",
+    "industryGroupId": 10350
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Diversified Financial Services",
+    "industryGroupId": 10350,
+    "industry": "Shell Companies",
+    "industryId": 10350010,
+    "description": "A development-stage company with no or minimal revenue. Includes capital pool, blank check, shell, and holding companies."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Diversified Financial Services",
+    "industryGroupId": 10350,
+    "industry": "Financial Conglomerates",
+    "industryId": 10350020,
+    "description": "Companies that provide financial services, including banking, insurance, and capital markets, but with no dominant business line or source of revenue."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Credit Services",
+    "industryGroupId": 10360
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Financial Services",
+    "sectorId": 103,
+    "industryGroup": "Credit Services",
+    "industryGroupId": 10360,
+    "industry": "Credit Services",
+    "industryId": 10360010,
+    "description": "Companies that extend credit and make loans to individuals and businesses through credit cards, installment loans, student loans, and business loans that are associated with other consumer and business credit instruments."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "Real Estate",
+    "industryGroupId": 10410
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "Real Estate",
+    "industryGroupId": 10410,
+    "industry": "Real Estate - Development",
+    "industryId": 10410010,
+    "description": "Companies that develop real estate and same properties held as inventory, or sold to others after development, with no specific portfolio composition."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "Real Estate",
+    "industryGroupId": 10410,
+    "industry": "Real Estate Services",
+    "industryId": 10410020,
+    "description": "Companies that operate, manage, and lease real property with no specific portfolio composition. Includes real estate services like brokers and agents but excludes companies classified in the real estate – development industry."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "Real Estate",
+    "industryGroupId": 10410,
+    "industry": "Real Estate - Diversified",
+    "industryId": 10410030,
+    "description": "Companies engaged in multiple real estate activities, including development, sales, management, and related services. Excludes companies classified in real estate development and real estate services."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Healthcare Facilities",
+    "industryId": 10420010,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of healthcare properties, including long-term-care facilities, acute-care and rehab hospitals, psychiatric facilities, and substance-abuse centers."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Hotel & Motel",
+    "industryId": 10420020,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of lodging properties, including full- and limited-service hotels and motels."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Industrial",
+    "industryId": 10420030,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of industrial properties, including bulk warehouses, self-storage facilities, distribution facilities, and other light industrial facilities."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Office",
+    "industryId": 10420040,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of office properties, including office buildings, complexes, and centers."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Residential",
+    "industryId": 10420050,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of residential properties, including apartments, multifamily and single-family mortgage loans, manufactured housing, mobile-home parks, and other residential properties."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Retail",
+    "industryId": 10420060,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of retail properties, including community shopping centers, factory outlet shopping centers, enclosed shopping malls, strip centers, restaurants, and other retail properties."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Mortgage",
+    "industryId": 10420070,
+    "description": "Self-administered real estate investment trusts engaged in the development, acquisition, management, and disposition of retail properties, including community shopping centers, factory outlet shopping centers, enclosed shopping malls, strip centers, restaurants, and other retail properties."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Specialty",
+    "industryId": 10420080,
+    "description": "Self-administered real estate investment trusts engaged in the acquisition, management, and disposition of properties not classified elsewhere. Includes trusts that operate, lease, and invest in telecom towers, advertising spaces, timberland properties, and other properties not classified elsewhere."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Real Estate",
+    "sectorId": 104,
+    "industryGroup": "REITs",
+    "industryGroupId": 10420,
+    "industry": "REIT - Diversified",
+    "industryId": 10420090,
+    "description": "Self-administered real estate investment trusts engaged in the acquisition, management, and disposition of diversified property holdings, with no specific portfolio composition."
+  }
+]
+
