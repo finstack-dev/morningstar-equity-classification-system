@@ -7,8 +7,10 @@
 <h1 align="center">
   Morningstar Equity Classification System
 </h1>
-
-This NPM package aims to enable lookups in the reference table of Morningstar as published on their [website](https://advisor.morningstar.com/Enterprise/VTC/MorningstarGlobalEquityClassStructure2019v3.pdf).
+<p align="center">
+This NPM package aims to enable lookups in the reference table of Morningstar as published on their 
+<a href="https://advisor.morningstar.com/Enterprise/VTC/MorningstarGlobalEquityClassStructure2019v3.pdf" target="blank">website</a>.
+</p>
 
 <p align="center">
   <a href="https://github.com/finstack-dev/morningstar-equity-classification-system/blob/master/LICENSE">
