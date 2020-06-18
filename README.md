@@ -191,17 +191,17 @@ mecs.below('311');
 ```
 
 <p align="center" style="margin-top: 4rem">
-  <a href="">
+  <a href="#">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg?style=for-the-badge" alt="Build with love" />
   </a>
-  <a href="">
+  <a href="#">
     <img src="https://forthebadge.com/images/badges/made-with-javascript.svg?style=for-the-badge" alt="Made with JavaScript" />
   </a>
   <br>
-  <a href="">
+  <a href="#">
     <img src="https://forthebadge.com/images/badges/check-it-out.svg?style=for-the-badge" alt="Check it out!" />
   </a>
-  <a href="">
+  <a href="#">
     <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg?style=for-the-badge" alt="Check it out!" />
   </a>
 </p>
