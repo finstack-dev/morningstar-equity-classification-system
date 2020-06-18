@@ -1,1 +1,1 @@
-# morningstar-equity-classification-system
+# Morningstar Global Equity Classification Structure
