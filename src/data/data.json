@@ -723,7 +723,7 @@
     "sectorId": 103,
     "industryGroup": "Insurance",
     "industryGroupId": 10340,
-    "industry": "Insurance — Life",
+    "industry": "Insurance - Life",
     "industryId": 10340010,
     "description": "Companies that underwrite, market, and distribute life insurance and related products to individuals and families."
   }, 
@@ -734,7 +734,7 @@
     "sectorId": 103,
     "industryGroup": "Insurance",
     "industryGroupId": 10340,
-    "industry": "Insurance — Property & Casualty",
+    "industry": "Insurance - Property & Casualty",
     "industryId": 10340020,
     "description": "Companies that underwrite, market, and distribute fire, marine, and casualty insurance for property and other tangible assets"
   }, 
@@ -745,7 +745,7 @@
     "sectorId": 103,
     "industryGroup": "Insurance",
     "industryGroupId": 10340,
-    "industry": "Insurance — Reinsurance",
+    "industry": "Insurance - Reinsurance",
     "industryId": 10340030,
     "description": "Companies that underwrite and sell reinsurance"
   }, 
@@ -756,7 +756,7 @@
     "sectorId": 103,
     "industryGroup": "Insurance",
     "industryGroupId": 10340,
-    "industry": "Insurance — Specialty",
+    "industry": "Insurance - Specialty",
     "industryId": 10340040,
     "description": "Companies that underwrite, market, and distribute accident and health, sickness, mortgage, and other specialty or supplemental insurance to individuals and families."
   }, 
@@ -767,7 +767,7 @@
     "sectorId": 103,
     "industryGroup": "Insurance",
     "industryGroupId": 10340,
-    "industry": "Insurance — Brokers",
+    "industry": "Insurance - Brokers",
     "industryId": 10340050,
     "description": "Companies acting primarily as agents or intermediaries in creating insurance contracts between clients and insurance companies."
   }, 
@@ -1014,7 +1014,7 @@
     "superSectorId": 2,
     "sector": "Consumer Defensive",
     "sectorId": 205,
-    "industryGroup": "Beverages — Non-Alcoholic",
+    "industryGroup": "Beverages - Non-Alcoholic",
     "industryGroupId": 20520
   }, 
   {
@@ -1022,9 +1022,9 @@
     "superSectorId": 2,
     "sector": "Consumer Defensive",
     "sectorId": 205,
-    "industryGroup": "Beverages — Non-Alcoholic",
+    "industryGroup": "Beverages - Non-Alcoholic",
     "industryGroupId": 20520,
-    "industry": "Beverages — Non-Alcoholic",
+    "industry": "Beverages - Non-Alcoholic",
     "industryId": 20520010,
     "description": "Companies that manufacture, sell, and distribute soft drinks, carbonated and spring water, fruit juices, and other nonalcoholic beverages"
   }, 
