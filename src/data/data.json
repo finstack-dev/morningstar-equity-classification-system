@@ -299,10 +299,7 @@
     "sector": "Consumer Cyclical",
     "sectorId": 102,
     "industryGroup": "Vehicles & Parts",
-    "industryGroupId": 10200,
-    "industry": "Auto & Truck Dealerships",
-    "industryId": 10200010,
-    "description": "Companies engaged in the specialty retail of new and used automobiles, trucks, and other vehicles through the operation and/or franchising of dealerships"
+    "industryGroupId": 10200
   }, 
   {
     "superSector": "Cyclical",
@@ -311,9 +308,9 @@
     "sectorId": 102,
     "industryGroup": "Vehicles & Parts",
     "industryGroupId": 10200,
-    "industry": "Auto Manufacturers",
-    "industryId": 10200020,
-    "description": "Leading worldwide designers and manufacturers of passenger cars and trucks."
+    "industry": "Auto & Truck Dealerships",
+    "industryId": 10200010,
+    "description": "Companies engaged in the specialty retail of new and used automobiles, trucks, and other vehicles through the operation and/or franchising of dealerships"
   }, 
   {
     "superSector": "Cyclical",
@@ -391,7 +388,7 @@
     "superSectorId": 1,
     "sector": "Consumer Cyclical",
     "sectorId": 102,
-    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroup": "Manufacturing - Apparel & Accessories",
     "industryGroupId": 10240
   }, 
   {
@@ -399,7 +396,7 @@
     "superSectorId": 1,
     "sector": "Consumer Cyclical",
     "sectorId": 102,
-    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroup": "Manufacturing - Apparel & Accessories",
     "industryGroupId": 10240,
     "industry": "Textile Manufacturing",
     "industryId": 10240010,
@@ -410,7 +407,7 @@
     "superSectorId": 1,
     "sector": "Consumer Cyclical",
     "sectorId": 102,
-    "industryGroup": "ManufacturingApparel & Accessories",
+    "industryGroup": "Manufacturing - Apparel & Accessories",
     "industryGroupId": 10240,
     "industry": "Apparel Manufacturing",
     "industryId": 10240020,
@@ -587,6 +584,17 @@
     "industry": "Leisure",
     "industryId": 10290020,
     "description": "Companies that manufacture, design, market, and sell bicycles, sporting goods, photographic equipment, recreational equipment, toys, and other leisure products or services."
+  }, 
+  {
+    "superSector": "Cyclical",
+    "superSectorId": 1,
+    "sector": "Consumer Cyclical",
+    "sectorId": 102,
+    "industryGroup": "Travel & Leisure",
+    "industryGroupId": 10290,
+    "industry": "Lodging",
+    "industryId": 10290030,
+    "description": "Companies that develop, manage, own, and operate lodging facilities, including motels, extended-stay and full-service hotels, and economy hotels and inns."
   }, 
   {
     "superSector": "Cyclical",
@@ -970,6 +978,1152 @@
     "industry": "REIT - Diversified",
     "industryId": 10420090,
     "description": "Self-administered real estate investment trusts engaged in the acquisition, management, and disposition of diversified property holdings, with no specific portfolio composition."
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Beverages - Alcoholic",
+    "industryGroupId": 20510
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Beverages - Alcoholic",
+    "industryGroupId": 20510,
+    "industry": "Beverages - Brewers",
+    "industryId": 20510010,
+    "description": "Companies that manufacture, sell, and distribute malt-based beverages, beers, and ales."
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Beverages - Alcoholic",
+    "industryGroupId": 20510,
+    "industry": "Beverages - Wineries & Distilleries",
+    "industryId": 20510020,
+    "description": "Companies that manufacture, sell, and distribute distilled liquors and wine."
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Beverages — Non-Alcoholic",
+    "industryGroupId": 20520
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Beverages — Non-Alcoholic",
+    "industryGroupId": 20520,
+    "industry": "Beverages — Non-Alcoholic",
+    "industryId": 20520010,
+    "description": "Companies that manufacture, sell, and distribute soft drinks, carbonated and spring water, fruit juices, and other nonalcoholic beverages"
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Consumer Packaged Goods",
+    "industryGroupId": 20525
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Consumer Packaged Goods",
+    "industryGroupId": 20525,
+    "industry": "Confectioners",
+    "industryId": 20525010,
+    "description": "Companies that manufacture and refine raw sugar, syrup or finished cane and beet sugar, candy and chewing gum, chocolate, and cocoa products."
+  }, 
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Consumer Packaged Goods",
+    "industryGroupId": 20525,
+    "industry": "Farm Products",
+    "industryId": 20525020,
+    "description": "Companies that produce, raise, and grow agricultural and farm-based food products, including fruits, vegetables, other crop products, cattle, and eggs. Also includes seafood products."
+  },   
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Consumer Packaged Goods",
+    "industryGroupId": 20525,
+    "industry": "Household & Personal Products",
+    "industryId": 20525030,
+    "description": "Companies that manufacture and market soaps and other detergents, polishing and sanitation goods and produce glycerin from vegetable and animal fats and oils. Also includes companies that manufacture and market personal-care products, including perfume, cosmetics, and other toilet preparations, infant and adult sanitary paper products, shaving razors and blades."
+  },   
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Consumer Packaged Goods",
+    "industryGroupId": 20525,
+    "industry": "Packaged Foods",
+    "industryId": 20525040,
+    "description": "Companies that process and package food products, including frozen foods, grain products, canned foods, snack foods, health supplements, vitamins, and pet products."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Education",
+    "industryGroupId": 20540
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Education",
+    "industryGroupId": 20540,
+    "industry": "Education & Training Services",
+    "industryId": 20540010,
+    "description": "Companies that provide educational and training services, including college and junior-college courses, higher-education programs, technical and vocational training, and other education services."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Retail - Defensive",
+    "industryGroupId": 20550
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Retail - Defensive",
+    "industryGroupId": 20550,
+    "industry": "Discount Stores",
+    "industryId": 20550010,
+    "description": "Companies engaged in the retail sale of a variety of merchandise at low and discounted prices."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Retail - Defensive",
+    "industryGroupId": 20550,
+    "industry": "Food Distribution",
+    "industryId": 20550020,
+    "description": "Companies primarily engaged in the distribution and supply of food products, including packaged goods, meat, dairy products, frozen foods, and related groceries to grocery stores, restaurants, and other food-service centers."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Retail - Defensive",
+    "industryGroupId": 20550,
+    "industry": "Grocery Stores",
+    "industryId": 20550030,
+    "description": "Companies engaged in the retail sale of groceries, including dry goods, meat, produce, frozen foods, dairy products, seafood, deli/bakery, and nonfood items."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Tobacco Products",
+    "industryGroupId": 20560
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Consumer Defensive",
+    "sectorId": 205,
+    "industryGroup": "Tobacco Products",
+    "industryGroupId": 20560,
+    "industry": "Tobacco",
+    "industryId": 20560010,
+    "description": "Companies that manufacture and market cigarettes, e-cigarettes, snuff, cigars, chewing tobacco, and all other tobacco products."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Biotechnology",
+    "industryGroupId": 20610
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Biotechnology",
+    "industryGroupId": 20610,
+    "industry": "Biotechnology",
+    "industryId": 20610010,
+    "description": "Biotech and biopharmaceutical companies engaged in research, discovery, development, and production of innovative drug and drugrelated technologies."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Drug Manufacturers",
+    "industryGroupId": 20620
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Drug Manufacturers",
+    "industryGroupId": 20620,
+    "industry": "Drug Manufacturers - General",
+    "industryId": 20620010,
+    "description": "Major, global pharmaceutical manufacturers offering a broad and diverse line of drug and healthcare products; industry leaders that have made a significant commitment to the research and development of a long pipeline of drugs"
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Drug Manufacturers",
+    "industryGroupId": 20620,
+    "industry": "Drug Manufacturers - Specialty & Generic",
+    "industryId": 20620020,
+    "description": "Companies engaged in development and discovery of branded forms of drug, drug-related products, generic drug products, and animal-related drugs. Also includes companies that cultivate, process, and farm cannabis or marijuana."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Healthcare Plans",
+    "industryGroupId": 20630
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Healthcare Plans",
+    "industryGroupId": 20630,
+    "industry": "Healthcare Plans",
+    "industryId": 20630010,
+    "description": "Companies that offer a wide variety of managed health products and services, including HMOs, PPOs, and other health insurance plans, and are largely U.S.-domiciled."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Healthcare Providers & Services",
+    "industryGroupId": 20645
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Healthcare Providers & Services",
+    "industryGroupId": 20645,
+    "industry": "Medical Care Facilities",
+    "industryId": 20645010,
+    "description": "Companies that provide medical services through the ownership and operation of hospitals, and other auxiliary healthcare-related services, including healthcare staffing and ambulatory services. Also, companies that operate long-term-care facilities, such as assisted-living centers, nursing and retirement homes, substance-abuse centers, and centers for rehabilitation services."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Healthcare Providers & Services",
+    "industryGroupId": 20645,
+    "industry": "Pharmaceutical Retailers",
+    "industryId": 20645020,
+    "description": "Companies engaged in the retail sale of prescription drugs and patent medicines as well as a number of related lines, such as cosmetics, toiletries, and novelty merchandise."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Healthcare Providers & Services",
+    "industryGroupId": 20645,
+    "industry": "Health Information Services",
+    "industryId": 20645030,
+    "description": "Companies that develop and provide comprehensive physician practice management systems and software for hospitals, medical practices, and managed-care organizations."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Devices & Instruments",
+    "industryGroupId": 20650
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Devices & Instruments",
+    "industryGroupId": 20650,
+    "industry": "Medical Devices",
+    "industryId": 20650010,
+    "description": "Companies that develop, manufacture, and market medical and surgical equipment and machinery, including orthopedic products, respiratory care equipment, x-ray equipment, laser systems, implants, pacemakers, and other major medical machines and apparatus."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Devices & Instruments",
+    "industryGroupId": 20650,
+    "industry": "Medical Instruments & Supplies",
+    "industryId": 20650020,
+    "description": "Companies that develop, design, manufacture, and market medical and dental instruments and supplies, including wheelchairs, catheters, needles, syringes, eyewear and eyecare products, and other healthrelated supplies."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Diagnostics & Research",
+    "industryGroupId": 20660
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Diagnostics & Research",
+    "industryGroupId": 20660,
+    "industry": "Diagnostics & Research",
+    "industryId": 20660010,
+    "description": "Companies that provide laboratory testing services through imaging and other diagnostic services to the medical industry."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Distribution",
+    "industryGroupId": 20670
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Healthcare",
+    "sectorId": 206,
+    "industryGroup": "Medical Distribution",
+    "industryGroupId": 20670,
+    "industry": "Medical Distribution",
+    "industryId": 20670010,
+    "description": "Companies primarily engaged in the distribution and supply of medical instruments and supplies, ophthalmic goods, and other health-related items to the medical and healthcare industry."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Independent Power Producers",
+    "industryGroupId": 20710
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Independent Power Producers",
+    "industryGroupId": 20710,
+    "industry": "Utilities - Independent Power Producers",
+    "industryId": 20710010,
+    "description": "Companies that own and operate merchant power generation facilities and sell electricity into retail and wholesale markets."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Independent Power Producers",
+    "industryGroupId": 20710,
+    "industry": "Utilities - Renewable",
+    "industryId": 20710020,
+    "description": "Companies that generate, produce, or transmit electric energy from renewable sources, including hydropower, wind, geothermal, biomass, solar, tidal, and wave."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Regulated",
+    "industryGroupId": 20720
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Regulated",
+    "industryGroupId": 20720,
+    "industry": "Utilities - Regulated Water",
+    "industryId": 20720010,
+    "description": "Companies that distribute water for sale, including water-treatment companies."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Regulated",
+    "industryGroupId": 20720,
+    "industry": "Utilities - Regulated Electric",
+    "industryId": 20720020,
+    "description": "Companies that generate, transmit, or distribute electric energy for sale."
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Regulated",
+    "industryGroupId": 20720,
+    "industry": "Utilities - Regulated Gas",
+    "industryId": 20720030,
+    "description": "Companies that transmit, store, or distribute natural gas"
+  },
+  {
+    "superSector": "Defensive",
+    "superSectorId": 2,
+    "sector": "Utilities",
+    "sectorId": 207,
+    "industryGroup": "Utilities - Regulated",
+    "industryGroupId": 20720,
+    "industry": "Utilities - Diversified",
+    "industryId": 20720040,
+    "description": "Companies engaged in the regulated generation, transmission, or distribution of electricity and natural gas, merchant power generation facilities, and energy marketing operations."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Telecommunication Services",
+    "industryGroupId": 30810
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Telecommunication Services",
+    "industryGroupId": 30810,
+    "industry": "Telecom Services",
+    "industryId": 30810010,
+    "description": "Companies that provide local, national, international, and long-distance phone services, as well as companies offering wireless services. Also includes companies that provide services for faxing, prepaid phone cards, pay phones, and directory assistance, or that provide Internet access services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Media - Diversified",
+    "industryGroupId": 30820
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Media - Diversified",
+    "industryGroupId": 30820,
+    "industry": "Advertising Agencies",
+    "industryId": 30820010,
+    "description": "Companies engaged in full-service advertising operations, including the planning, creating, producing, and placing of advertising in media such as TV, radio, and print. Also includes companies providing marketing services, including outdoor advertising, promotional materials, directmail services, digital marketing, event management services, and marketing research services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Media - Diversified",
+    "industryGroupId": 30820,
+    "industry": "Publishing",
+    "industryId": 30820020,
+    "description": "Companies that publish periodicals, such as magazines, comic books, trade journals, books, pamphlets, e-publications, and newspapers."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Media - Diversified",
+    "industryGroupId": 30820,
+    "industry": "Broadcasting",
+    "industryId": 30820030,
+    "description": "Companies that own or operate radio broadcast stations and provide and produce radio programming services, television programming services, and television broadcast stations. Also includes companies providing Internet-based video on demand and pay-per-view programming services"
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Media - Diversified",
+    "industryGroupId": 30820,
+    "industry": "Entertainment",
+    "industryId": 30820040,
+    "description": "Companies primarily operating with diversified holdings in movies, television, and other media-based entertainment. Also includes companies that produce and distribute motion pictures, television programmers, video, and the operation of movie theaters; and provide cable television services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Interactive Media",
+    "industryGroupId": 30830
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Interactive Media",
+    "industryGroupId": 30830,
+    "industry": "Internet Content & Information",
+    "industryId": 30830010,
+    "description": "Companies that provide content, Internet navigation services, and reference guide information for the World Wide Web through its platforms, including social media, search engines, and networking platform companies."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Communication Services",
+    "sectorId": 308,
+    "industryGroup": "Interactive Media",
+    "industryGroupId": 30830,
+    "industry": "Electronic Gaming & Multimedia",
+    "industryId": 30830020,
+    "description": "Companies that primarily develop or publish video games and other multimedia software applications for devices that include personal computers, video game systems, cellphones, tablets, and other portable media players."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910,
+    "industry": "Oil & Gas Drilling",
+    "industryId": 30910010,
+    "description": "Companies primarily engaged in the drilling for petroleum and natural gas."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910,
+    "industry": "Oil & Gas E&P",
+    "industryId": 30910020,
+    "description": "Energy companies which are primarily engaged in oil and gas exploration and production."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910,
+    "industry": "Oil & Gas Integrated",
+    "industryId": 30910030,
+    "description": "Major energy companies engaged in the diverse aspects of oil and gas operations, including crude oil and gas exploration, production, manufacturing, refining, marketing, and transportation."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910,
+    "industry": "Oil & Gas Midstream",
+    "industryId": 30910040,
+    "description": "Companies that own and operate oilfield pipelines and are involved in the gathering, processing, and transportation of natural crude petroleum."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910,
+    "industry": "Oil & Gas Refining & Marketing",
+    "industryId": 30910050,
+    "description": "Companies that refine, gather, market, and sell petroleum and petroleum products."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Oil & Gas",
+    "industryGroupId": 30910,
+    "industry": "Oil & Gas Equipment & Services",
+    "industryId": 30910060,
+    "description": "Companies that provide oilfield services and equipment for activities such as contract drilling and seismic surveys. Also includes equipment and tool rental, pumping and processing services, and inspection and contracting services"
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Other Energy Sources",
+    "industryGroupId": 30920
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Other Energy Sources",
+    "industryGroupId": 30920,
+    "industry": "Thermal Coal",
+    "industryId": 30920010,
+    "description": "Companies that mine thermal coal, which is used for generating energy. Excludes companies that mine coking coal to make steel."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Energy",
+    "sectorId": 309,
+    "industryGroup": "Other Energy Sources",
+    "industryGroupId": 30920,
+    "industry": "Uranium",
+    "industryId": 30920020,
+    "description": "Companies that mine, refine, produce, and mill uranium and uranium-related materials."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Aerospace & Defense",
+    "industryGroupId": 31010
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Aerospace & Defense",
+    "industryGroupId": 31010,
+    "industry": "Aerospace & Defense",
+    "industryId": 31010010,
+    "description": "Companies that manufacture aerospace and defense products, including aircraft and aircraft parts, tanks, guided missiles, space vehicles, ships and marine equipment, and other aerospace and defense components and systems, as well as companies supporting these products through repair and maintenance services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Business Services",
+    "industryGroupId": 31020
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Business Services",
+    "industryGroupId": 31020,
+    "industry": "Specialty Business Services",
+    "industryId": 31020010,
+    "description": "Companies that provide services to the commercial or business market, including information distribution, warehousing, graphic design, accounting, printing, and miscellaneous services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Business Services",
+    "industryGroupId": 31020,
+    "industry": "Consulting Services",
+    "industryId": 31020020,
+    "description": "Companies that provide management, research, and consulting services to businesses and other agencies. Includes companies engaged in strategic and management consulting services, interior design, and information and analytics."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Business Services",
+    "industryGroupId": 31020,
+    "industry": "Rental & Leasing Services",
+    "industryId": 31020030,
+    "description": "Companies that rent or lease durable goods to the commercial and consumer market, including cars and trucks, medical and industrial equipment, appliances and tools, and miscellaneous goods."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Business Services",
+    "industryGroupId": 31020,
+    "industry": "Security & Protection Services",
+    "industryId": 31020040,
+    "description": "Companies that provide security and protective services, including protective or preventive devices, security guards and inspection services, security alarm and monitoring systems, detention and correction facilities, and other security-based services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Business Services",
+    "industryGroupId": 31020,
+    "industry": "Staffing & Employment Services",
+    "industryId": 31020050,
+    "description": "Companies that provide staffing and employment services, including temporary staffing and permanent placement, outsources workforce and other employment-related services to businesses and government. Also includes companies providing online staffing services."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Conglomerates",
+    "industryGroupId": 31030
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Conglomerates",
+    "industryGroupId": 31030,
+    "industry": "Conglomerates",
+    "industryId": 31030010,
+    "description": "Companies that are in several separate lines of business with no single line providing the dominant source of revenue or income."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Construction",
+    "industryGroupId": 31040
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Construction",
+    "industryGroupId": 31040,
+    "industry": "Engineering & Construction",
+    "industryId": 31040010,
+    "description": "Companies engaged in the design, construction, or contracting of industrial and nonresidential structures, streets and highways, bridges and tunnels, docks and piers, dams and water projects, utility lines, and other large building projects. Also includes companies that provide engineering consulting and architectural services to consumer and commercial clients."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Construction",
+    "industryGroupId": 31040,
+    "industry": "Infrastructure Operations",
+    "industryId": 31040020,
+    "description": "Companies that develop, finance, maintain, or manage infrastructure operations such as ports, airports, and roadways"
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Construction",
+    "industryGroupId": 31040,
+    "industry": "Building Products & Equipment",
+    "industryId": 31040030,
+    "description": "Companies that manufacture building and construction products and materials, including ceramic floor and wall tiles, plumbing, HVAC, framing structures, and doors. Excludes companies that are classified in the building materials industry."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Farm & Heavy Construction Machinery",
+    "industryGroupId": 31050
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Farm & Heavy Construction Machinery",
+    "industryGroupId": 31050,
+    "industry": "Farm & Heavy Construction Machinery",
+    "industryId": 31050010,
+    "description": "Companies that manufacture agricultural and construction machinery, including tractors, planting and harvesting machines, cranes, earthmovers, excavators, and related equipment and machinery. Includes truck manufacturers that provide local and longhaul trucking and transfer services for freight and cargo."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Distribution",
+    "industryGroupId": 31060
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Distribution",
+    "industryGroupId": 31060,
+    "industry": "Industrial Distribution",
+    "industryId": 31060010,
+    "description": "Companies primarily engaged in the distribution and supply of industrial equipment, including construction and farming machinery, garden equipment and supplies, and other industrial items to a diversified market of redistributors and end users."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070,
+    "industry": "Business Equipment & Supplies",
+    "industryId": 31070010,
+    "description": "Companies that manufacture and market office and business machines, such as copiers, fax machines, postage meters, point-ofsale terminals, and ATMs."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070,
+    "industry": "Specialty Industrial Machinery",
+    "industryId": 31070020,
+    "description": "Companies engaged in diversified machinery manufacturing operations, including paper and food production machines, printing machinery, engines and turbines, air and gas processors, blowers and fans, furnaces and ovens, and other general and special industry machines."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070,
+    "industry": "Metal Fabrication",
+    "industryId": 31070030,
+    "description": "Companies that fabricate, stamp, or form iron, steel, or other metals into products such as structured components by cutting, bending, and assembling processes of basic metals to create a final product."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070,
+    "industry": "Pollution & Treatment Controls",
+    "industryId": 31070040,
+    "description": "Companies that manufacture equipment designed to control pollution, including control systems, hazardous waste disposal systems, recovery systems, treatment processes, filtration systems, cleaning and separation applications, and recycling machinery."
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070,
+    "industry": "Tools & Accessories",
+    "industryId": 31070050,
+    "description": "Companies that manufacture small, hand-held tools, including power-driven drills, welding apparatus, lawn and garden equipment, and other power or manually operated tools and accessories, such as hardware, nuts, bolts, rivets, and other fasteners"  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Industrial Products",
+    "industryGroupId": 31070,
+    "industry": "Electrical Equipment & Parts",
+    "industryId": 31070060,
+    "description": "Companies that manufacture electrical equipment (such as smartgrid electrical equipment, utility metering, high- and low-voltage electrical equipment, transmission control devices, switches, and lighting distribution boxes), batteries, electrical wires and cables, and automation control."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080,
+    "industry": "Airports & Air Services",
+    "industryId": 31080010,
+    "description": "Air transportation companies that provide related air services, including helicopter transportation, air-charter services, in-flight catering services, and air emergency and business-related services."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080,
+    "industry": "Airlines",
+    "industryId": 31080020,
+    "description": "Major international passenger airline companies that fly a wide range of domestic and international routes."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080,
+    "industry": "Railroads",
+    "industryId": 31080030,
+    "description": "Companies that provide transportation of freight by line-haul railroad as well as related railroad equipment and repair services. Includes companies offering passenger services via railway and roadways."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080,
+    "industry": "Marine Shipping",
+    "industryId": 31080040,
+    "description": "Companies that transport freight and cargo via water and operate marine ports. Includes companies that provide passenger services via water."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080,
+    "industry": "Trucking",
+    "industryId": 31080050,
+    "description": "Companies that provide local and long-haul trucking and transfer services for freight and cargo."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Transportation",
+    "industryGroupId": 31080,
+    "industry": "Integrated Freight & Logistics",
+    "industryId": 31080060,
+    "description": "Companies that transport freight and cargo via diversified methods such as railroads, airlines, and waterways."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Waste Management",
+    "industryGroupId": 31090
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Industrials",
+    "sectorId": 310,
+    "industryGroup": "Waste Management",
+    "industryGroupId": 31090,
+    "industry": "Waste Management",
+    "industryId": 31090010,
+    "description": "Companies that collect, treat, store, transfer, recycle, and dispose of waste materials, as well as companies that provide supporting environmental, engineering, and consulting services."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Software",
+    "industryGroupId": 31110
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Software",
+    "industryGroupId": 31110,
+    "industry": "Information Technology Services",
+    "industryId": 31110010,
+    "description": "Companies that provide computer-system design, network and systems operations, repair services, technical support, computer technology consulting, development, and implementation services."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Software",
+    "industryGroupId": 31110,
+    "industry": "Software - Application",
+    "industryId": 31110020,
+    "description": "Companies that primarily design, develop, market, and support application software programs, including those that are cloud-based, for specific consumer and business functions"  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Software",
+    "industryGroupId": 31110,
+    "industry": "Software - Infrastructure",
+    "industryId": 31110030,
+    "description": "Companies that develop, design, support, and provide system software and services, including operating systems, networking software and devices, web portal services, cloud storage, and related services."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120,
+    "industry": "Communication Equipment",
+    "industryId": 31120010,
+    "description": "Companies that design, develop, manufacture, and market equipment for the communication industry, including fiber-optic cable; telecom peripherals; voice and data transmission and processing equipment; satellite products and equipment; videoconferencing systems and equipment; and interactive communication systems. Also includes companies that offer networking products that provide connectivity solutions for multi-use computing environments."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120,
+    "industry": "Computer Hardware",
+    "industryId": 31120020,
+    "description": "Companies that design, manufacture, and market computer systems, high mainframe servers, supercomputer, and 3D printers and scanners. Also includes companies that manufacture and market data storage products and other storage and backup devices for computers."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120,
+    "industry": "Consumer Electronics",
+    "industryId": 31120030,
+    "description": "Companies that manufacture and market mobile communication products and household audio and video equipment, including radios, stereos, televisions, DVD player and personal use Drones. Excludes electric household appliances."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120,
+    "industry": "Electronic Components",
+    "industryId": 31120040,
+    "description": "Companies that design, develop, manufacture, and market electronic devices, including electron tubes; electronic capacitors; electronic resistors; electronic coil and transformers; sensors; LED, TFT, and LCD displays; electronic connectors; printed circuit boards; circuit assemblies; and other general-purpose electronics components and products."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120,
+    "industry": "Electronics & Computer Distribution",
+    "industryId": 31120050,
+    "description": "Companies primarily engaged in the distribution, supply, and support of computers and computer systems, peripheral equipment, and software and other technological goods, including electronic equipment and appliances, electrical cable, wires, and other components to various consumer, commercial, and manufacturing customers."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Hardware",
+    "industryGroupId": 31120,
+    "industry": "Scientific & Technical Instruments",
+    "industryId": 31120060,
+    "description": "Companies that design, develop, manufacture, and market sophisticated electronics of a technical nature, including lab apparatus, process and flow control devices, precise measurement and signal processing tools, search and navigation equipment, and other scientific or technical analytical or measuring devices."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Semiconductors",
+    "industryGroupId": 31130
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Semiconductors",
+    "industryGroupId": 31130,
+    "industry": "Semiconductor Equipment & Materials",
+    "industryId": 31130010,
+    "description": "Companies that design, develop, manufacture, and market equipment, spare parts, tools, cleaning devices, and related materials for the semiconductor industry."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Semiconductors",
+    "industryGroupId": 31130,
+    "industry": "Semiconductors",
+    "industryId": 31130020,
+    "description": "Semiconductor companies that design, manufacture, and market integrated circuits, microprocessors, logic devices, chipsets, and memory chips for a wide variety of users. Includes companies that design, manufacture, and market general-application integrated circuits and memory and memory-intensive products."  
+  },
+  {
+    "superSector": "Sensitive",
+    "superSectorId": 3,
+    "sector": "Technology",
+    "sectorId": 311,
+    "industryGroup": "Semiconductors",
+    "industryGroupId": 31130,
+    "industry": "Solar",
+    "industryId": 31130030,
+    "description": "Companies that design, manufacture, market, or install solar power systems and components."  
   }
 ]
-

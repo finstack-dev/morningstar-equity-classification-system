@@ -3,7 +3,7 @@ import { search } from '..';
 test('Search', () => expect(Array.isArray(search('Finance'))).toBe(true));
 
 test('Search for super sector: Cyclical', () =>
-  expect(search('Cyclical')).toHaveLength(91));
+  expect(search('Cyclical')).toHaveLength(92));
 
 test('Search for sector: Basic Materials', () =>
   expect(search('Basic Materials')).toHaveLength(21));
