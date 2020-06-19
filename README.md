@@ -58,7 +58,7 @@ npm install morningstar-equity-classification-system
 ## Usage
 
 ```javascript
-import mecs from 'morningstar-equity-classification-system';
+import * as mecs from 'morningstar-equity-classification-system';
 
 mecs.all()
 
