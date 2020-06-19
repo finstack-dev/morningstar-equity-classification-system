@@ -350,7 +350,7 @@
     "superSectorId": 1,
     "sector": "Consumer Cyclical",
     "sectorId": 102,
-    "industryGroup": "Furnishings, Fixtures, & Appliance",
+    "industryGroup": "Furnishings, Fixtures & Appliance",
     "industryGroupId": 10220
   }, 
   {
@@ -358,9 +358,9 @@
     "superSectorId": 1,
     "sector": "Consumer Cyclical",
     "sectorId": 102,
-    "industryGroup": "Furnishings, Fixtures, & Appliance",
+    "industryGroup": "Furnishings, Fixtures & Appliance",
     "industryGroupId": 10220,
-    "industry": "Furnishings, Fixtures, & Appliances",
+    "industry": "Furnishings, Fixtures & Appliances",
     "industryId": 10220010,
     "description": "Companies that manufacture and market wooden, metal, and upholstered furniture, mattresses, bedsprings, lighting fixtures, wooden flooring, wallpaper, and household products, such as utensils, cutlery, tableware, and appliances."
   }, 
