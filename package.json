@@ -1,7 +1,7 @@
 {
   "name": "morningstar-equity-classification-system",
   "version": "0.0.0",
-  "description": "Morningstar Global Equity Classification Structure - July 2019",
+  "description": "Morningstar Global Equity Classification Structure",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
     "test:watch": "jest --watchAll",
     "build": "tsc",
     "watch": "tsc -w",
-    "start": "npm link && nodemon",
+    "start": "nodemon",
     "semantic-release": "semantic-release"
   },
   "repository": {
